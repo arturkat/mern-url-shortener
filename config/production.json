@@ -1,0 +1,6 @@
+{
+  "port": 80,
+  "jwtSecret": "artur master awesome 98765212",
+  "mongoUri": "mongodb+srv://artur:master100@cluster0.8k2vd.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
